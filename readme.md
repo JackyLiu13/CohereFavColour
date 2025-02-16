@@ -1,7 +1,12 @@
 # What is Cohere's Favourite Colour?  
 **A Data Science Exploration of LLM Colour Generation Patterns**  
-*By Jacky, CS @ Western University*  -- _I'm looking for a summer internship, if you're interested in hiring me, please reach out to me at jackyliu013@gmail.com_
+*By Jacky Liu, CS @ Western University*  -- _I'm looking for a summer internship, if you're interested in hiring me, please reach out to me at jackyliu013@gmail.com_
+<br>
+*+ Luke Blommesteyn, SWE @ Western University*
+
 Twitter: [@jacky__liu](https://x.com/jacky__liu) 
+<br>
+Twitter: [@LukeBlomm](https://x.com/LukeBlomm)
 
 ![Header Visualization](temperatures.png)
 
@@ -87,7 +92,7 @@ Top 3 colors from analysis: <span style="color:#007FFF">■ Azure</span> <span s
 ## 3. Results
 
 ### 3.1 Frequency Distribution
-![Colour Frequencies](visualizations/colour_frequencies.png)
+![Colour Frequencies](frequencies.png)
 
 **Top 5 Valid Colours:**
 1. **<span style="color:#007FFF">■ Azure (#007FFF)</span> - 92**
