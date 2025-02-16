@@ -1,0 +1,226 @@
+[
+  {
+    "hex": "N/A",
+    "frequency": 757,
+    "temperatures": [
+      "0.0",
+      "0.1",
+      "0.2",
+      "0.3",
+      "0.4",
+      "0.5",
+      "0.6",
+      "0.7",
+      "0.8",
+      "0.9",
+      "1.0"
+    ]
+  },
+  {
+    "hex": "#007FFF",
+    "frequency": 92,
+    "temperatures": [
+      "0.2",
+      "0.3",
+      "0.4",
+      "0.5",
+      "0.6",
+      "0.7",
+      "0.8",
+      "0.9",
+      "1.0"
+    ]
+  },
+  {
+    "hex": "#00FF00",
+    "frequency": 66,
+    "temperatures": [
+      "0.3",
+      "0.4",
+      "0.5",
+      "0.6",
+      "0.7",
+      "0.8",
+      "0.9",
+      "1.0"
+    ]
+  },
+  {
+    "hex": "#FF5733",
+    "frequency": 49,
+    "temperatures": [
+      "0.4",
+      "0.5",
+      "0.6",
+      "0.7",
+      "0.8",
+      "0.9",
+      "1.0"
+    ]
+  },
+  {
+    "hex": "#00FFFF",
+    "frequency": 40,
+    "temperatures": [
+      "0.0",
+      "0.4",
+      "0.5",
+      "0.6",
+      "0.7",
+      "0.8",
+      "0.9",
+      "1.0"
+    ]
+  },
+  {
+    "hex": "#0000FF",
+    "frequency": 38,
+    "temperatures": [
+      "0.1",
+      "0.2",
+      "0.3",
+      "0.4",
+      "0.5",
+      "0.7",
+      "0.8",
+      "0.9",
+      "1.0"
+    ]
+  },
+  {
+    "hex": "#FF4500",
+    "frequency": 14,
+    "temperatures": [
+      "0.3",
+      "0.4",
+      "0.5",
+      "0.6",
+      "0.7",
+      "0.8",
+      "1.0"
+    ]
+  },
+  {
+    "hex": "#3498DB",
+    "frequency": 8,
+    "temperatures": [
+      "0.7",
+      "0.8",
+      "1.0"
+    ]
+  },
+  {
+    "hex": "#FF8C00",
+    "frequency": 8,
+    "temperatures": [
+      "0.5",
+      "0.6",
+      "0.7",
+      "0.8",
+      "0.9",
+      "1.0"
+    ]
+  },
+  {
+    "hex": "#0077B6",
+    "frequency": 6,
+    "temperatures": [
+      "0.7",
+      "0.8",
+      "0.9",
+      "1.0"
+    ]
+  },
+  {
+    "hex": "#008000",
+    "frequency": 4,
+    "temperatures": [
+      "0.8",
+      "0.9",
+      "1.0"
+    ]
+  },
+  {
+    "hex": "#3498db",
+    "frequency": 4,
+    "temperatures": [
+      "0.5",
+      "0.6",
+      "0.7",
+      "0.8"
+    ]
+  },
+  {
+    "hex": "#0077BE",
+    "frequency": 3,
+    "temperatures": [
+      "0.8",
+      "0.9",
+      "1.0"
+    ]
+  },
+  {
+    "hex": "#0074D9",
+    "frequency": 2,
+    "temperatures": [
+      "0.8",
+      "1.0"
+    ]
+  },
+  {
+    "hex": "#0077C8",
+    "frequency": 2,
+    "temperatures": [
+      "1.0"
+    ]
+  },
+  {
+    "hex": "#000000",
+    "frequency": 1,
+    "temperatures": [
+      "0.5"
+    ]
+  },
+  {
+    "hex": "#002366",
+    "frequency": 1,
+    "temperatures": [
+      "0.1"
+    ]
+  },
+  {
+    "hex": "#0072BB",
+    "frequency": 1,
+    "temperatures": [
+      "1.0"
+    ]
+  },
+  {
+    "hex": "#007BFF",
+    "frequency": 1,
+    "temperatures": [
+      "0.9"
+    ]
+  },
+  {
+    "hex": "#0080FF",
+    "frequency": 1,
+    "temperatures": [
+      "1.0"
+    ]
+  },
+  {
+    "hex": "#660066",
+    "frequency": 1,
+    "temperatures": [
+      "1.0"
+    ]
+  },
+  {
+    "hex": "#FF0000",
+    "frequency": 1,
+    "temperatures": [
+      "0.7"
+    ]
+  }
+]
